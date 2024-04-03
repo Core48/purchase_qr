@@ -4,9 +4,9 @@
     "summary": """Purchase Order QR Code""",
     'author': "Core48 ",
     'website': "https://core48.com",
-    'category': 'Core48',
+    'category': 'Purchase Management',
     "version": "17.0.0.1",
-    'license': 'Other proprietary',
+    'license': 'LGPL-3',
     "depends": [
         'purchase'
             ],
@@ -17,5 +17,6 @@
     'installable': True,
     'auto_install': False,
     'application': True,
+    "images": ["static/description/banner.jpg"],
 
 }
