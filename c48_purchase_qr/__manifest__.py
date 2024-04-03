@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
-    "name": "core48 purchase QR",
-    "summary": """core48 purchase QR""",
+    "name": "Purchase Order QR",
+    "summary": """Purchase Order QR Code""",
     'author': "Core48 ",
     'website': "https://core48.com",
     'category': 'Core48',
